@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\c++\rozdiał 3\c++ ponowny start\Samochody\Samochody\main.cpp(106,16): warning C4101: "stmt": lokalna zmienna, do której nie istnieje odwołanie
+  Samochody.vcxproj -> D:\c++\rozdiał 3\c++ ponowny start\Samochody\x64\Debug\Samochody.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
